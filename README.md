@@ -1,5 +1,5 @@
 # Evaluation Javascript
-Vous trouverez un ensemble de fichiers mis à votre disposition. Vous aurez le reste de la matinée pour réaliser les défis suivants.  
+Vous trouverez un ensemble de fichiers mis à votre disposition. Vous aurez la matinée pour réaliser les défis suivants.  
 Pour ces défis, vous ne pourrez utiliser que Javascript. Point de CSS ni de HTML.  
 Petit cadeau, vous aurez peut-être à un moment besoin d'utiliser nextElementSibling...  (ne me remerciez pas, c'est cadeau ^^).  
 ## Ce qu'il faut faire quoi qu'il arrive, c'est l'étape 1  
